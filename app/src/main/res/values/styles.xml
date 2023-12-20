@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+    </style>
+
+    <!-- Theme for NewActivity -->
+    <style name="Theme.NewActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize the theme for NewActivity here -->
+    </style>
+</resources>
